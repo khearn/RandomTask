@@ -92,9 +92,11 @@ include ('nav.php');
     ?>
     <!-- Finished calender -->
 
-</aside>
 </article>
 
 <?php
 include ('footer.php');
 ?>
+
+</body>
+</html>
